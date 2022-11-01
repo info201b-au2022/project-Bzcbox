@@ -61,7 +61,7 @@ One benefit of studying this subject is that it can provide a sound basis for po
 ## The Dataset:
 
 | FileName            | Columns     | Rows     |
-| -----------         | ----------- |          |
+| -----------         | ----------- | -------  |
 | air_data.xlsx       |     11      |   449    |
 | covid_19_data.csv   |     13      |   3711   |
 
