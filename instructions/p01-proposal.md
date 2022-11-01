@@ -1,7 +1,7 @@
 # The Research Between Underprivileged Minority Groups and Human Safety and Environmental Justice
-***INFO-201: Technical Foundations of Informatics - The Information School - University of Washington***
-
 ***AUTUMN 2022***
+
+***INFO-201: Technical Foundations of Informatics - The Information School - University of Washington***
 
 ## Contributors:
 - Areeba Usman (ausman22@uw.edu)
@@ -42,7 +42,7 @@ Direct stakeholders of our research are communities that suffer from environment
 The indirect stakeholders of our research are policymakers. Due to the injustice of environmental policies, minority and low-income communities are exposed to a greater danger of pollution which leads to serious health issues. Government institutions and policymakers could be more aware of the discrimination happening toward communities with lower political power and end the injustice at a social level.
 
 ### *Possible harms and benefits*
-One benefit of studying this subject is that it can provide a sound basis for policy design (Lester, Allen, & Hill, 2001)
+A benefit of this topic is the ability to gather observational data. This can be used to create solutions for the future on how to tackle the issue of pollution in our low income communities. Another benefit is that it can also aid in providing data on the growing number of citizens who lack proper health insurance coverage.  By having this information, there will be a greater effort to design policies that can benefit the most people.  An obvious harm is that people are getting sick from the concentration of pollutants in the air. This is prevalent in both high and low SES (socioeconomic status) communities however as previously mentioned, those in low SES communities lack the insurance coverage to be treated for their illnesses. This creates a chain reaction, as sick people can’t work and so they cannot bring money in for better living standards. Therefore, these low income neighborhoods are repeating the same cycles, and no one is doing anything about it. However, if changes are made, these neighborhoods will start to rise in their socioeconomic status, which can risk gentrification. Families who may have been living in these homes for generations may be pushed out in order to turn a poor urban area into a place where the wealthier can live.
 
 
 ## Research Questions:
