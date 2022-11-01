@@ -1,10 +1,11 @@
 # The Research Between Underprivileged Minority Groups and Human Safety and Environmental Justice
 
-## Authors:
-- Areeba Usman
-- Donna Te
-- Jiajia Lin
-- Steven He
+***Oct. 31st, 2022***
+
+- Areeba Usman (ausman22@uw.edu)
+- Donna Te (tedonna@uw.edu)
+- Jiajia Lin (jiajil4@uw.edu)
+- Steven He (hexincan@uw.edu)
 
 ## Code Name:
 ```
@@ -57,7 +58,15 @@ One benefit of studying this subject is that it can provide a sound basis for po
   - a
 
 ## The Dataset:
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
 Our dataset will allow us better understand how both income and minority communities are affected by pollution. Because this dataset provides us with insight on low-income nonwhite population-weighted concentrations and high-income white population-weighted concentrations, we may be able to discover which factor (between income or race) has a greater impact on air pollution levels.
+
 
 Our second dataset can be used to answer the second question as how it
 
