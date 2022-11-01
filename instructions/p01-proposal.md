@@ -3,6 +3,7 @@
 
 ***AUTUMN 2022***
 
+## Contributors:
 - Areeba Usman (ausman22@uw.edu)
 - Donna Te (tedonna@uw.edu)
 - Jiajia Lin (jiajil4@uw.edu)
