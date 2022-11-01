@@ -1,6 +1,7 @@
 # The Research Between Underprivileged Minority Groups and Human Safety and Environmental Justice
+***INFO-201: Technical Foundations of Informatics - The Information School - University of Washington***
 
-***Oct. 31st, 2022***
+***AUTUMN 2022***
 
 - Areeba Usman (ausman22@uw.edu)
 - Donna Te (tedonna@uw.edu)
@@ -59,10 +60,10 @@ One benefit of studying this subject is that it can provide a sound basis for po
 
 ## The Dataset:
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| FileName            | Columns     | Rows     |
+| -----------         | ----------- |          |
+| air_data.xlsx       |     11      |   449    |
+| covid_19_data.csv   |     13      |   3711   |
 
 
 Our dataset will allow us better understand how both income and minority communities are affected by pollution. Because this dataset provides us with insight on low-income nonwhite population-weighted concentrations and high-income white population-weighted concentrations, we may be able to discover which factor (between income or race) has a greater impact on air pollution levels.
