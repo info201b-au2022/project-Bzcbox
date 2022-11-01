@@ -24,24 +24,20 @@ Evidence suggests that the effects of different kinds of disease are not experie
 
 ## Problem Domain:
 
-##### *Project framing*
+### *Project framing*
 One governmental issue is the fact that the environment of minority and low-income communities are harmed by governmental policies. The injustice policies stem from institutional racism, “Institutional racism continues to affect policy decisions related to pollution and other forms of environmental degradation”, stated Robert D. Bullard and Beverly Hendrix Wright (1986). For example, minority communities might be targeted to be used as places for heavy industries, therefore, their living environment could be heavily affected by pollution compared to other communities.
 Distributive injustice leads to another social issue of environmental injustice. Income inequality increases the vulnerability of low-income communities while facing pollution and climate change at the individual level compared to other communities. This indicates that as opposed to upper-middle classes residents who take more precautions, like “restricting time outdoors, using indoor air purifiers” (Parris, Hegtvedt, & Johnson, 2020), people who cannot afford better protection from pollution are yet, receiving more pollution burden.
 
-##### *Human values*
-
+### *Human values*
 Our human values include factors such as environmental justice, health safety, and access to resources. Oftentimes, pollution may go overlooked as it is not something we can physically see, but can be deadly for communities who do not have access to insurance, are unable to seek medical attention due to their history of medical bills, and much more. If these individuals are already disadvantaged financially, something must be done to address the disproportionate pollution levels based on the varying income levels and population of minorities in a community.
 
-##### *Direct stakeholders*
-
+### *Direct stakeholders*
 Direct stakeholders of our research are communities that suffer from environmental injustice. The living environment of minority and low-come communities are damaged by disproportionate exposure to pollution. A study shows that black residents absorb about 1.5 times the air pollution burden of the population at large (ALEJANDRA BORUNDA, 2021). Drawing more attention from society and raising public awareness of environmental injustice would help to build a larger data set, and more analyses can be done to solve this problem.
 
-##### *Indirect stakeholders*
-
+### *Indirect stakeholders*
 The indirect stakeholders of our research are policymakers. Due to the injustice of environmental policies, minority and low-income communities are exposed to a greater danger of pollution which leads to serious health issues. Government institutions and policymakers could be more aware of the discrimination happening toward communities with lower political power and end the injustice at a social level.
 
-##### *Possible harms and benefits*
-
+### *Possible harms and benefits*
 One benefit of studying this subject is that it can provide a sound basis for policy design (Lester, Allen, & Hill, 2001)
 
 
@@ -52,7 +48,8 @@ One benefit of studying this subject is that it can provide a sound basis for po
 
 
 2. **How were minorities affected by environmental injustice and biased institutional policies during the COVID-19 pandemic?**
-  - a
+
+  - For minorities and low-income communities, living in an environment exposed to disproportionate pollution might lead to serious health issues that make them more vulnerable while facing viruses like the COVID-19 pandemic. Studying the influence of the COVID-19 pandemic posed on minority communities can help us to better demonstrate how environmental injustice threatens minorities’ physical heath.
 
 
 3. **What is the correlation between socioeconomic status and concentration of air pollutants?**
@@ -66,8 +63,8 @@ Our second dataset can be used to answer the second question as how it
 Our third data set shows the relationship between lower income communities and the concentration of air pollutants found. This is important as it directly relates to our overall topic for this project. This data can be used in correlation with a rise of cardiovascular and lung disease. Furthermore, as shown in our other data set, it is more likely that those living in lower SES (socio-economic status) communities are lacking insurance or don’t receive enough coverage. Pairing this with air that isn’t clean in these communities, the people living here are not only having their health jeopardized but also the ability to receive proper health care too.
 
 ## Expected implications:
-
 An expected implication for our project topic can be that those living in lower SES communities are more likely to have a greater concentration of pollutants in their air. Due to this, the people are more likely to suffer the consequences in regards to their health, as this creates a threat of lung and cardiovascular disease. Another implication is that those in higher SES communities may also have a dangerous level of pollutants in their air and may also be equally susceptible to disease, but since they are more likely to have better insurance coverage, they have a better chance of recovering. On the other hand, people living in lower income communities are less likely to have good enough coverage or coverage at all and so this leads to their health declining more. This creates a chain reaction, as sick people can’t work and so they cannot bring money in for better living standards.
+
 ## Limitations:
 Some limitations we may need to address on the dataset regarding race and income versus level of air pollution is the lack of representation; the only two categories include low-income nonwhite population-weighted concentrations and high-income white population-weighted concentration. Although this provides a good insight and may indicate the environmental injustices that are present, there are also non-white individuals who may be high income, and alternatively, low-income white individuals. The omission of these groups may skew the data, and lead to an inaccurate conclusion. Additionally, the second dataset contains quite a deficit of data as n/a is listed in the dataset. A lack of data collected may lead to limitations as we are unable to understand the bigger picture of how communities of color are impacted by healthcare, and therefore we cannot accurately assess injustices that are present.
 
