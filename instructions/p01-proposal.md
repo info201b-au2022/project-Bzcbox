@@ -74,7 +74,7 @@ A benefit of this topic is the ability to gather observational data. This can be
 Our dataset will allow us better understand how both income and minority communities are affected by pollution. Because this dataset provides us with insight on low-income nonwhite population-weighted concentrations and high-income white population-weighted concentrations, we may be able to discover which factor (between income or race) has a greater impact on air pollution levels.
 
 
-Our second dataset can be used to answer the second question as how it
+Our second dataset can be used to answer the second question. The datasets includes deaths caused by COVID-19 and distribution by race and state. By further analyze this dataset, we can find whether COVID-19 deaths are related to race, which race suffers the most from the COVID-19, and so on. This dataset is provided by NCHS, National Center for Health Statistics, and the data itself is considered to be convincing and credible.
 
 Our third data set shows the relationship between lower income communities and the concentration of air pollutants found. This is important as it directly relates to our overall topic for this project. This data can be used in correlation with a rise of cardiovascular and lung disease. Furthermore, as shown in our other data set, it is more likely that those living in lower SES (socio-economic status) communities are lacking insurance or don’t receive enough coverage. Pairing this with air that isn’t clean in these communities, the people living here are not only having their health jeopardized but also the ability to receive proper health care too.
 
