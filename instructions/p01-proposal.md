@@ -1,16 +1,15 @@
-### Code Name:
-```
-environmental_impact
-```
-
-## Project Title:
-The Research Between Underprivileged Minority Groups and Human Safety and Environmental Justice
+# The Research Between Underprivileged Minority Groups and Human Safety and Environmental Justice
 
 ## Authors:
 - Areeba Usman
 - Donna Te
 - Jiajia Lin
 - Steven He
+
+### Code Name:
+```
+environmental_impact
+```
 
 ## Abstract:
 We are concerned with how environmental injustice is considered to be one form of social injustice. This question is important because environmental injustice can be hard to distinguish, and only a few people realize how devastating it can be. To address this concern, we plan to use datasets in order to prove the increasing spread of environmental injustice in the United States.
