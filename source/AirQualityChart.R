@@ -2,8 +2,6 @@
 library(ggplot2)
 library(tidyverse)
 
-setwd("~/info201/project-Bzcbox/source")
-
 #Load data from csv file
 AirGini <- read.csv("https://github.com/info201b-au2022/project-Bzcbox/raw/main/data/Air%26SESStates.csv")
 
