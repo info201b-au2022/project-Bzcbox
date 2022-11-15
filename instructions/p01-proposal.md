@@ -61,7 +61,8 @@ A benefit of this topic is the ability to gather observational data. This can be
 
 
 3. **What is the correlation between socioeconomic status and concentration of air pollutants?**
-  - a
+
+  - Socioeconomic status encompasses numerous factors from household income/occupation, educational attainment, and social class. All these factors may reflect oppression and discrimination, thus encouraging companies to build factories and dump pollutants where those of lower SES reside. Regardless of one's socioeconomic status, unfair treatment that is detrimental to their health takes away from an individual’s human rights.
 
 ## The Dataset:
 
