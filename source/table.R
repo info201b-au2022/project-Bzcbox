@@ -1,7 +1,7 @@
 # table.R
 # A source file that produce a table of aggregate information about it:
 
-#     Load the tidyverse package.
+# Load the tidyverse package.
 library(tidyverse)
 
 covid <- read.csv('https://raw.githubusercontent.com/info201b-au2022/project-Bzcbox/main/data/covid_19_data.csv')
@@ -18,7 +18,7 @@ population_by_race <- population_by_race[complete.cases(population_by_race), ]
 
 population_by_race <- population_by_race %>%
   rename(race = Years, population_2020 = X2020)
-  
+
 population_by_race[1,]$race = 'Hispanic'
 population_by_race[2,]$race = 'Non-Hispanic White'
 population_by_race[3,]$race = 'Non-Hispanic Black'
@@ -35,8 +35,10 @@ covid_group <- covid %>%
   group_by(race) %>%
   summarize(total_deaths = round(sum(COVID_19_deaths, na.rm = TRUE), digits = 0))
 
+# Join two dataframes
 covid_by_race <- right_join(population_by_race, covid_group, by="race")
 
+# Mutate a new column that is the proportion of deaths caused by COVID-19 in different races to the population
 covid_by_race <- mutate(covid_by_race, proportion_of_covid_death = total_deaths / population_2020)
 
 covid_by_race

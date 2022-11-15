@@ -1,18 +1,11 @@
 # The `/source` Directory
 
 All of our project code is found in this directory.  We further organize our code into 
-these sub-directories (TODO: Update/Delete)
+these sub-directories
 
 |Source Directories | Brief Description|
 |---------------| -----------------|
-|[xxx](./xxx) | Description ... 
-|[xxx](./xxx) | Description ... 
-
-
-# DEVELOPER NOTE 1: About ... 
-* All source code for your projects should go in the `/source` directory
-* To organize your code, you might decide to create sub-directories
-* If you use sub-directories, plese briefly describe them in the table above
-* Please remember your audience (prospective employers, open source colleagues, TAs, Instructors). Therefore, 
-aim for clarity and conciseness.
-* When done, be sure to delete this NOTE sections (which are intended for you, of course, not your audience!)
+|[table.R](./table.R) | A table of summary information
+|[Summary.R](./Summary.R) | A summary file that contains the list of summary information
+|[AirQualityChart.R](./AirQualityChart.R) | A chart that shows the airquality scatterplot visualization
+|[plot_covid.R](./plot_covid.R) | A chart that shows the bar plot visualization of COVID-19 deaths by race rati

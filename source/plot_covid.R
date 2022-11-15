@@ -3,9 +3,11 @@
 
 source("https://github.com/info201b-au2022/project-Bzcbox/raw/main/source/table.R")
 
+# Load packages
 library(tidyverse)
 library(ggplot2)
 
+# plot the COVID-19 Deaths by Race Ratio
 h1 <- ggplot(data = covid_by_race) +
   geom_col(mapping = aes(
     x = race,
