@@ -41,4 +41,4 @@ covid_by_race <- right_join(population_by_race, covid_group, by="race")
 # Mutate a new column that is the proportion of deaths caused by COVID-19 in different races to the population
 covid_by_race <- mutate(covid_by_race, proportion_of_covid_death = total_deaths / population_2020)
 
-covid_by_race
+covid_by_race <- covid_by_race

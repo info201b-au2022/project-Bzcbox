@@ -13,6 +13,6 @@ covid_chart <- ggplot(data = covid_by_race) +
     x = race,
     y = proportion_of_covid_death,
     fill = race
-  )) + labs(title = "COVID-19 Deaths by Race Ratio")
+  )) + labs(title = "COVID-19 Deaths by Race Ratio") + theme(axis.text.x=element_blank())
 
 covid_chart
