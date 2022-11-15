@@ -8,11 +8,11 @@ library(tidyverse)
 library(ggplot2)
 
 # plot the COVID-19 Deaths by Race Ratio
-h1 <- ggplot(data = covid_by_race) +
+covid_chart <- ggplot(data = covid_by_race) +
   geom_col(mapping = aes(
     x = race,
     y = proportion_of_covid_death,
     fill = race
   )) + labs(title = "COVID-19 Deaths by Race Ratio")
 
-h1
+covid_chart

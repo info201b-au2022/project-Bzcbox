@@ -15,6 +15,9 @@ source("../source/Summary.R")
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+In total, there were 3710 rows of covid observations. Of these observations, it was found that the greatest number of deaths when observed by race were non-hispanic white individuals. This was an interesting finding, but could be impacted by numerous factors such as oppression. Oftentimes, people of color may not seek medical attention due to legal or financial reasons, and omissions of these minorities may go unrecorded. We also looked at the race that has the maximum deaths ratio. The result was non-hispanic American Indian or Alaska Native, who are minorities. Because they are minorities, there are many injustices that result in this outcome such as environmental, healthcare, rights, and much more. 
+
+As for the second dataset, the state that has the greatest number of low income non-white population weighted concreation was New York, and this was the same for the high income white population. From these results, we believe that New York was the outcome for both findings due to the fact that New York consumes more fossil fuels in its buildings than any other states in the country. To explain the outcome between the two opposite demographics, it may be reliant on the fact that New York is the fifth-most diverse state but also has one of the greatest income gaps. For these reasons, the combination of diversity in race and income results in New York.
 
 ### Chart 1
 ```{r echo=FALSE}
@@ -27,3 +30,6 @@ wealth inequalities compare to trends in air pollutants, and whether there is a 
 correlation. We see that there is a high positive correlation between the two factors, meaning that income levels have a strong impact on the level of air pollution. 
 
 ### Chart 2
+```{r echo=FALSE}
+covid_chart
+```
