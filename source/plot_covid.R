@@ -11,6 +11,6 @@ h1 <- ggplot(data = covid_by_race) +
     x = race,
     y = proportion_of_covid_death,
     fill = race
-  ))
+  )) + labs(title = "COVID-19 Deaths by Race Ratio")
 
 h1
