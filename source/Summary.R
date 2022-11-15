@@ -23,8 +23,8 @@ summary_info$covid_max_death_by_race <- covid_by_race %>%
 summary_info$ari_max_LIN_state <- air_data %>%
   filter(`Low-Income Nonwhite (LIN) Population-weighted Concentration (ppb)` == max(`Low-Income Nonwhite (LIN) Population-weighted Concentration (ppb)`)) %>%
   pull(State)
+
 #state that has the max high income white population weighted concentration.
 summary_info$ari_max_HIW_state <- air_data %>%
   filter(`High-Income White (HIW) Population-weighted Concentration (ppb)` == max(`High-Income White (HIW) Population-weighted Concentration (ppb)`)) %>%
   pull(State)
-
