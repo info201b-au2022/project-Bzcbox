@@ -6,19 +6,10 @@ library(readr)
 
 tab_panel_report <- tabPanel(
   "Report",
-  sidebarLayout(
-    position="left",
-    sidebarPanel(
-      img(src="img/unprecedented-picture-of-the-sun-just-captured-by-stellar-sp_e6cg.1248.webp",width="100%")
-    ),
-    mainPanel(
-      
-      fluidRow(
-        column(
-          6,
-          includeMarkdown("tabs/report.md")
-        )
-      )
+  fluidRow(
+    column(
+      9,
+      includeMarkdown("tabs/report.md")),
     )
-  )
+  
 )

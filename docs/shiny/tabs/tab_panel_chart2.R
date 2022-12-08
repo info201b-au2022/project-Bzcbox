@@ -35,12 +35,10 @@ tab_panel_chart2 <-tabPanel(
       
       mainPanel(
         plotlyOutput("plot2"),
-        p("A visualization that shows the annual production-based emissions of
-            carbon dioxide (CO₂) from gas, measured in million tonnes. The user
-            can select the range of years to be displayed on the plot, from 1800
-            to 2021. The user can also pick between scatter plot and line plot.
-            We can see that the emission increases exponentially until 1973,
-            then decreases untill 1986, and then increases overall.")
+        p("This graph best allows us to visualize how these wealth inequalities compare
+          to trends in air pollutants, and whether there is a positive or negative correlation.
+          We see that there is a high positive correlation between the two factors,
+          meaning that income levels have a strong impact on the level of air pollution.")
       )
     )
 )

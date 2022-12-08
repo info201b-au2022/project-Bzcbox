@@ -16,29 +16,12 @@ library("shinythemes")
 source("tabs/tab_panel_intro.R")
 source("tabs/tab_panel_chart1.R")
 source("tabs/tab_panel_chart2.R")
-source("tabs/tab_panel_chart3.R")
 source("tabs/tab_panel_summary.R")
 source("tabs/tab_panel_report.R")
 
 ui <- navbarPage(
   title = "Environmental Justice",
   position = "fixed-top",
-  
-  # A simple header
-  # header = list(
-  #   tags$style(type = "text/css", "body {padding-top: 70px;}"),
-  #   hr(),
-  #   HTML("Socioeconomic Factors on Individuals "),
-  #   hr()
-  # ),
-  
-  # A simple footer
-  footer = list(
-    tags$style(type = "text/css", "body {padding-top: 70px;}"),
-    hr(),
-    HTML("INFO201 Final Project 16"),
-    hr()
-  ),
   
   # The project introduction
   tab_panel_intro,
@@ -51,5 +34,12 @@ ui <- navbarPage(
   tab_panel_summary,
   
   # The project report
-  tab_panel_report
+  tab_panel_report,
+  
+  footer = list(
+    tags$style(type = "text/css", "body {padding-top: 70px;}"),
+    hr(),
+    HTML("INFO201 Final Project 16 - Donna Te,Steven He, Jiajia Lin"),
+    hr()
+  )
 )

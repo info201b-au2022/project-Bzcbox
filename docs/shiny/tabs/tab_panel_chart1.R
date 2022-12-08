@@ -20,7 +20,8 @@ tab_panel_chart1 <-tabPanel(
         checkboxGroupInput(inputId = "data_c",
                            label = "Select race to plot",
                            choices = race,
-                           selected = race)
+                           selected = race),
+        width = 4
       ),
       mainPanel( 
         plotlyOutput("plot1"),
