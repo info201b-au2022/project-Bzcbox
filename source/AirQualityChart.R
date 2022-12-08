@@ -1,6 +1,6 @@
 #Loading Packages 
 library(ggplot2)
-library(tidyverse)
+library(dplyr)
 
 #Load data from csv file
 AirGini <- read.csv("https://github.com/info201b-au2022/project-Bzcbox/raw/main/data/Air%26SESStates.csv")

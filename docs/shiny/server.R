@@ -6,8 +6,8 @@
 #
 #    http://shiny.rstudio.com/
 
-source("../../source/table.R")
-source("../../source/AirQualityChart.R")
+source("https://raw.githubusercontent.com/info201b-au2022/project-Bzcbox/main/source/table.R")
+source("https://raw.githubusercontent.com/info201b-au2022/project-Bzcbox/main/source/AirQualityChart.R")
 
 library(shiny)
 library(ggplot2)

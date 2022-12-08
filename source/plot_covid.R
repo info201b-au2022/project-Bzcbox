@@ -4,7 +4,7 @@
 source("https://github.com/info201b-au2022/project-Bzcbox/raw/main/source/table.R")
 
 # Load packages
-library(tidyverse)
+library(dplyr)
 library(ggplot2)
 
 # plot the COVID-19 Deaths by Race Ratio

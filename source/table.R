@@ -1,8 +1,8 @@
 # table.R
 # A source file that produce a table of aggregate information about it:
 
-# Load the tidyverse package.
-library(tidyverse)
+# Load the dplyr package.
+library(dplyr)
 
 covid <- read.csv('https://raw.githubusercontent.com/info201b-au2022/project-Bzcbox/main/data/covid_19_data.csv')
 
