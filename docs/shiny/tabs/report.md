@@ -1,7 +1,7 @@
 # Project Title
-Donna Te (xxx@uw.edu)         
-Steven He (xxx@uw.edu)     
-Jiajia Lin (xxx@uw.edu)         
+Donna Te (tedonna@uw.edu)         
+Steven He (hexincan@uw.edu)     
+Jiajia Lin (jiajil4@uw.edu)         
 
 *INFO-201: Technical Foundations of Informatics*  
 *The Information School*   
@@ -25,8 +25,9 @@ Evidence suggests that the effects of different kinds of disease are not experie
 
 #### **Project framing**
 
-> One governmental issue is the fact that the environment of minority and low-income communities are harmed by governmental policies. The injustice policies stem from institutional racism, “Institutional racism continues to affect policy decisions related to pollution and other forms of environmental degradation”, stated Robert D. Bullard and Beverly Hendrix Wright (1986). For example, minority communities might be targeted to be used as places for heavy industries, therefore, their living environment could be heavily affected by pollution compared to other communities.
+> Injustices in America continue to arise based on race, income levels, and so much more. The consequences of these injustices impact these groups, as seen through the increased levels of pollution and the distribution of covid-19 deaths. Ultimately, the lack of attention and financial resources lead to the mistreatment of these underprivileged communities, revealing the negative implications of institutional racism. “Institutional racism continues to affect policy decisions related to pollution and other forms of environmental degradation”, stated Robert D. Bullard and Beverly Hendrix Wright (1986). For example, minority communities might be targeted to be used as places for heavy industries, therefore, their living environment could be heavily affected by pollution compared to other communities.
 Distributive injustice leads to another social issue of environmental injustice. Income inequality increases the vulnerability of low-income communities while facing pollution and climate change at the individual level compared to other communities. This indicates that as opposed to upper-middle classes residents who take more precautions, like “restricting time outdoors, using indoor air purifiers” (Parris, Hegtvedt, & Johnson, 2020), people who cannot afford better protection from pollution are yet, receiving more pollution burden. 
+
 
 
 #### **Human values**
@@ -43,7 +44,9 @@ Distributive injustice leads to another social issue of environmental injustice.
 
 #### **Possible harms and benefits**
 
-> A benefit of this topic is the ability to gather observational data. This can be used to create solutions for the future on how to tackle the issue of pollution in our low income communities. Another benefit is that it can also aid in providing data on the growing number of citizens who lack proper health insurance coverage.  By having this information, there will be a greater effort to design policies that can benefit the most people.  An obvious harm is that people are getting sick from the concentration of pollutants in the air. This is prevalent in both high and low SES (socioeconomic status) communities however as previously mentioned, those in low SES communities lack the insurance coverage to be treated for their illnesses. This creates a chain reaction, as sick people can’t work and so they cannot bring money in for better living standards. Therefore, these low income neighborhoods are repeating the same cycles, and no one is doing anything about it. However, if changes are made, these neighborhoods will start to rise in their socioeconomic status, which can risk gentrification. Families who may have been living in these homes for generations may be pushed out in order to turn a poor urban area into a place where the wealthier can live.
+> A benefit of this topic is the ability to gather observational data. This can be used to create solutions for the future on how to tackle the issue of pollution in our low income communities. Another benefit is that it can also aid in providing data on the growing number of citizens who lack proper health insurance coverage.  By having this information, there will be a greater effort to design policies that can benefit the most people. 
+An obvious harm is that people are getting sick from the concentration of pollutants in the air. This is prevalent in both high and low SES (socioeconomic status) communities however as previously mentioned, those in low SES communities lack the insurance coverage to be treated for their illnesses. This creates a chain reaction, as sick people can’t work and so they cannot bring money in for better living standards. Therefore, these low income neighborhoods are repeating the same cycles, and no one is doing anything about it. However, if changes are made, these neighborhoods will start to rise in their socioeconomic status, which can risk gentrification. Families who may have been living in these homes for generations may be pushed out in order to turn a poor urban area into a place where the wealthier can live.
+
 
 ## Research questions
 
@@ -61,11 +64,11 @@ Distributive injustice leads to another social issue of environmental injustice.
 
 ## The Dataset
 
-#### Firstdaofughioha
+#### Air pollution dataset
 
 The first dataset analyzed compares the outdoor NO2 air pollution in the United States, based on different categorizations of race and income. This dataset will allow us to better understand how both income and minority communities are affected by pollution. Because this dataset provides us with insight on low-income nonwhite population-weighted concentrations and high-income white population-weighted concentrations, we may be able to discover which factor (between income or race) has a greater impact on air pollution levels. 
 
-#### saoifhoaehp
+#### COVID dataset
 
 Our second dataset displayed the distribution of COVID 19 deaths based on factors such as age, race and state, which can be used to answer the second question. By further analyzing this dataset, we can find whether COVID-19 deaths are related to race, which race suffers the most from the COVID-19, and so on. This dataset is provided by NCHS, National Center for Health Statistics, and the data itself is considered to be convincing and credible.
 
@@ -90,7 +93,7 @@ Some limitations we may need to address on the dataset regarding race and income
 
 * ####  How were minorities affected by environmental injustice and biased institutional policies during the COVID-19 pandemic?
 
-In total, there were 3710 rows of covid observations. Of these observations, it was found that the greatest number of deaths when observed by race were non-hispanic white individuals. This was an interesting finding, but could be impacted by numerous factors such as oppression. Oftentimes, people of color may not seek medical attention due to legal or financial reasons, and omissions of these minorities may go unrecorded. We also looked at the race that has the maximum deaths ratio. Because the number of non-white hispanic individuals who were recorded in data was so large, there was also a large number of deaths. Upon looking at the proportions, Non-Hispanic American Indian or Alaska Native and Non-Hispanic Black individuals had the highest proportion of deaths due to covid. Because they are minorities, there are many injustices that result in this outcome such as environmental, healthcare, rights, and much more. With these minorities having the highest deaths ratio, we should take into consideration the fact that as a minority group, they may live in areas of low SES, where dumping and polluting industries reside. This may increase the deaths ratio as COVID 19 is a respiratory disease, and when coupled with prior exposure to high pollution levels, the likeliness of deaths may increase. 
+>In total, there were 3710 rows of covid observations. Of these observations, it was found that the greatest number of deaths when observed by race were non-hispanic white individuals. This was an interesting finding, but could be impacted by numerous factors such as oppression. Oftentimes, people of color may not seek medical attention due to legal or financial reasons, and omissions of these minorities may go unrecorded. We also looked at the race that has the maximum deaths ratio. Because the number of non-white hispanic individuals who were recorded in data was so large, there was also a large number of deaths. Upon looking at the proportions, Non-Hispanic American Indian or Alaska Native and Non-Hispanic Black individuals had the highest proportion of deaths due to covid. Because they are minorities, there are many injustices that result in this outcome such as environmental, healthcare, rights, and much more. With these minorities having the highest deaths ratio, we should take into consideration the fact that as a minority group, they may live in areas of low SES, where dumping and polluting industries reside. This may increase the deaths ratio as COVID 19 is a respiratory disease, and when coupled with prior exposure to high pollution levels, the likeliness of deaths may increase. 
 
 ## Discussion
 
@@ -103,16 +106,12 @@ Furthermore, through our research, we learned that one finding may not accuratel
 
 ## Conclusion 
 
-We *must* shed light on these social injustices through protests. Change must start all individuals in society and undermine the power that promotes and sustains these social injustices. Sometimes, it takes a large movement to get the attention of those who hold power. We have seen numerous protests in the past such as Black Lives Matter, and how much reform has come with this protest. We can apply these strategies in order to alleviate the oppression of low SES and minority groups. 
+We **must** shed light on these social injustices through protests. Change must start all individuals in society and undermine the power that promotes and sustains these social injustices. Sometimes, it takes a large movement to get the attention of those who hold power. We have seen numerous protests in the past such as Black Lives Matter, and how much reform has come with this protest. We can apply these strategies in order to alleviate the oppression of low SES and minority groups. 
 
 With environmental impacts for low SES communities being around for decades, only worsening as our population continues to dangerously grow and fossil fuels continue to be used to fulfill the operations of a selfish and unsustainable society, the only solution to prevent low SES communities from being disadvantaged is by creating laws to ensure these communities are not mistreated. Given that not enough changes have been made to this day, the only way to grab the attention of policymakers and society is through protesting. 
 
 In addition, although COVID 19 has not been around for nearly as long as environmental pollution, COVID 19 gives us insight into the healthcare system, and the lack of attention provided towards those of low SES or minorities. The high proportion of deaths may come from the financial burdens, preventing these individuals from receiving the proper treatment required. Healthcare in America has proved to be broken with the highest costs to receive treatment. Despite being costly, the price is not reflected in its quality. The patient care experiences have been poor as structural racism has been so deeply ingrained, further preventing minorities from reaching out to hospitals. The healthcare system in America and diversity among staff must be improved to get individuals the treatment they need. 
 
-
-#### Acknowledgements
-
-MISSING
 
 ## References 
 
