@@ -5,11 +5,10 @@
 # Find out more about building applications with Shiny here:
 #
 #    http://shiny.rstudio.com/
-#
 
 library(shiny)
 
-imgs <- list.files("/Users/jiajialin/Documents/info201/p3/project-template1/www/", pattern=".png", full.names = TRUE)
+imgs <- list.files("img", pattern=".png", full.names = TRUE)
 
 server <- function(input, output) {
   # TBD
@@ -18,5 +17,3 @@ server <- function(input, output) {
   #   list(src = x, alt = "alternate text")
   # }, deleteFile = FALSE)
 }
-
-

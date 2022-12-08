@@ -9,7 +9,7 @@ tab_panel_report <- tabPanel(
   sidebarLayout(
     position="left",
     sidebarPanel(
-      img(src="unprecedented-picture-of-the-sun-just-captured-by-stellar-sp_e6cg.1248.webp",width="100%")
+      img(src="img/unprecedented-picture-of-the-sun-just-captured-by-stellar-sp_e6cg.1248.webp",width="100%")
     ),
     mainPanel(
       
@@ -32,7 +32,5 @@ tab_panel_repor <-tabPanel(
       includeMarkdown("tabs/report.md")
     )
   )
-
-
 )
 
