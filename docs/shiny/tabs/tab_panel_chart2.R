@@ -34,7 +34,7 @@ tab_panel_chart2 <-tabPanel(
       ),
       
       mainPanel(
-        plotlyOutput("plot"),
+        plotlyOutput("plot2"),
         p("A visualization that shows the annual production-based emissions of
             carbon dioxide (CO₂) from gas, measured in million tonnes. The user
             can select the range of years to be displayed on the plot, from 1800
