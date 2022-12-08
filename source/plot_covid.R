@@ -16,3 +16,8 @@ covid_chart <- ggplot(data = covid_by_race) +
   )) + labs(title = "COVID-19 Deaths by Race Ratio") + theme(axis.text.x=element_blank())
 
 covid_chart
+
+input <- c("Hispanic", "Non-Hispanic White")
+
+data <- covid_by_race %>%
+  filter(race %in% c(input))
