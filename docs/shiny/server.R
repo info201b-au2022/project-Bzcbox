@@ -5,14 +5,8 @@
 # Find out more about building applications with Shiny here:
 #
 #    http://shiny.rstudio.com/
-#
 
 library(shiny)
-
-#source
-source("https://github.com/info201b-au2022/project-Bzcbox/raw/main/source/table.R")
-
-imgs <- list.files("/Users/jiajialin/Documents/info201/p3/project-template1/www/", pattern=".png", full.names = TRUE)
 
 server <- function(input, output) {
   
@@ -28,5 +22,3 @@ server <- function(input, output) {
            y = "Proportion of COVID Death") + theme(axis.text.x=element_blank())
   })
 }
-
-
