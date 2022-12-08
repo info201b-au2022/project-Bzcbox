@@ -25,12 +25,12 @@ ui <- navbarPage(
   position = "fixed-top",
   
   # A simple header
-  header = list(
-    tags$style(type = "text/css", "body {padding-top: 70px;}"),
-    hr(),
-    HTML("Socioeconomic Factors on Individuals "),
-    hr()
-  ),
+  # header = list(
+  #   tags$style(type = "text/css", "body {padding-top: 70px;}"),
+  #   hr(),
+  #   HTML("Socioeconomic Factors on Individuals "),
+  #   hr()
+  # ),
   
   # A simple footer
   footer = list(
@@ -46,7 +46,6 @@ ui <- navbarPage(
   # The three charts
   tab_panel_chart1,
   tab_panel_chart2,
-  tab_panel_chart3,
   
   # The project summary
   tab_panel_summary,

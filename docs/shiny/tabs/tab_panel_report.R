@@ -22,15 +22,3 @@ tab_panel_report <- tabPanel(
     )
   )
 )
-
-tab_panel_repor <-tabPanel(
-  "Report",
-
-  fluidRow(
-    column(
-      6,
-      includeMarkdown("tabs/report.md")
-    )
-  )
-)
-
