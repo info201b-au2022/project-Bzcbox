@@ -12,7 +12,7 @@ library(shiny)
 imgs <- list.files("/Users/jiajialin/Documents/info201/p3/project-template1/www/", pattern=".png", full.names = TRUE)
 
 server <- function(input, output) {
-    # TBD
+  # TBD
   # output$image <-  renderImage({
   #   x <- imgs[index()] 
   #   list(src = x, alt = "alternate text")
